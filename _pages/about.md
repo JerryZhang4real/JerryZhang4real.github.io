@@ -12,3 +12,5 @@ I am a first year Master student from [School of Computer Science](https://www.b
 I am looking for research oppotunities and trying to apply PhD currently. Good luck to myself!
 
 
+[Email](mailto:jiaruiz@brandeis.edu)
+
