@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiarui Zhang / Homepage"
+title                    : "Jiarui Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Jiarui Zhang"
 description              : &description "personal description"
